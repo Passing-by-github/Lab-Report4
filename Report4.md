@@ -2,7 +2,7 @@
 
 In this lab, we learned some command shortcuts and how to use vim. To showcase our new found understanding of vim, we'll use what we learned on ieng6 with a forked lab7 Repository.
 
-Before starting, I must mention that these steps are done a new terminal, so there is no search history.  
+Before starting, I must mention that these steps are done a new terminal, so there will be no search history and I won't be using the ieng6's history before this report.  
 
 **Step 1.** Log into ieng6:    
 ---
