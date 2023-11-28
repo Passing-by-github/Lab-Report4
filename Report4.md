@@ -31,7 +31,7 @@ We notice that the failure happened in line 44 of ListExamples.java file. Now to
 *Keys pressed:* `vim` `L` `<tab>`, which will autocomplete the line with the closest file name(ListExamples), and then I type `.java <enter>`:     
 ![image](vim.PNG)   
 
-Now I'm in the nomal mod of `vim`, where I can write commands. So I type `:44` to jump to line 44, where the error was documented. The cursor wasn't on the right place, so I used `<l>` to move left and find the specific error: `<l> <l> <l> <l> <l> <l>` . Afterwards, I changed my mod to insert by using the `<i>` command and made my edits,`<i> <backspace> 2` I went back to normal mode using the `esc` button and `wq!` to save my new edits, `<escape> <:wq!> <enter>`:     
+Now I'm in the nomal mod of `vim`, where I can write commands. So I type `:44` to jump to line 44, where the error was documented. The cursor wasn't on the right place, so I used `<l>` 6 times to move left and find the specific error. Afterwards, I changed my mod to insert by using the `<i>` command and made my edits,`<i> <backspace> 2` I went back to normal mode using the `esc` button and `wq!` to save my new edits, `<escape> <:wq!> <enter>`:     
 
 
   ![image](vimnew.PNG)  
