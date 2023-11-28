@@ -14,7 +14,7 @@ We first copy the ssh url from the forked repository by pressing the copy button
 ![image](https://github.com/Passing-by-github/Lab-Report4/assets/130006613/0a7f95cc-5208-4a57-9da5-edcc08b0c36f)  
 Back to the terminal -->  
 
-*Keys pressed:* `<ctrl+v>` the command `git clone git@github.com:Passing-by-github/lab7.git` `<enter>`:  
+*Keys pressed:* write the command `git clone` and then press `<ctrl+v>`  to paste `git@github.com:Passing-by-github/lab7.git` `<enter>`:  
 ![image](cloned.PNG)    
 
 **Step 3.** Run the tests, demonstrating that they fail:   
