@@ -10,11 +10,11 @@ Before starting, I must mention that these steps are done a new terminal, so the
 
 **Step 2.** Clone your fork of the repository from your Github account (using the SSH URL):   
 ---
-We first copy the ssh url from the forked repository:
+We first copy the ssh url from the forked repository by pressing the copy button:
 ![image](https://github.com/Passing-by-github/Lab-Report4/assets/130006613/0a7f95cc-5208-4a57-9da5-edcc08b0c36f)  
 Back to the terminal -->  
 
-*Keys pressed:* Write the command `git clone git@github.com:Passing-by-github/lab7.git` `<enter>`:  
+*Keys pressed:* `<ctrl+v>` the command `git clone git@github.com:Passing-by-github/lab7.git` `<enter>`:  
 ![image](cloned.PNG)    
 
 **Step 3.** Run the tests, demonstrating that they fail:   
